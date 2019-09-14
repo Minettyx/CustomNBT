@@ -1,0 +1,5 @@
+name: customNBT
+author: Minettyx
+version: 0.1
+main: me.minettyx.customNBT.Main
+description: Custom item nbt

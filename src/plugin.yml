@@ -1,5 +1,5 @@
 name: customNBT
 author: Minettyx
-version: 0.1
+version: 0.2
 main: me.minettyx.customNBT.Main
-description: Custom item nbt
+description: Custom item and mobs NBT tags

@@ -1,7 +1,9 @@
 # CustomNBT
-CustomNBT is a bukkit api plugin that can manage custom NBT tags on items (more support like blocks and mobs coming soon).
+CustomNBT is a bukkit api plugin that can manage custom NBT tags on items
 This is possible by adding a lore line that looks empty but in this line there are stored all the tags (soo it's better don't remove it).
 The tags are stored in json using color codes as memory (white for 0 and black for 1).
+
+For mobs the tags are stored in the config file.
 
 ## Download
 - [GitHub](https://github.com/MinettyxDev/customNBT/releases)

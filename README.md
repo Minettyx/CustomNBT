@@ -6,7 +6,7 @@ The tags are stored in json using color codes as memory (white for 0 and black f
 For mobs the tags are stored in the config file.
 
 ## Download
-- [GitHub](releases)
+- [GitHub](https://github.com/Minettyx/CustomBNT/releases)
 
 ## Usage
 Add the jar file to your Java build path and add CustomNBT as a dependency to your plugin.yml
